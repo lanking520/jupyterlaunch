@@ -1,4 +1,4 @@
-FROM deepjavalibrary/jupyter:814039bac52
+FROM deepjavalibrary/jupyter:814039bac520
 
 ARG NB_USER=djluser
 ARG NB_UID=1000
